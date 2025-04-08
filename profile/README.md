@@ -7,7 +7,7 @@ Stardust XR is a display server for VR and AR headsets on Linux-based systems. S
 
 ## 🖥️ Installing
 
-If you'd like to try out Stardust XR, detailed installation guides and walkthroughs, (including help setting up XR headsets within Linux) are available on our [website](https://stardustxr.org/docs/get-started/What-is-Stardust)
+If you'd like to try out Stardust XR, detailed installation guides and walkthroughs, (including help setting up XR headsets within Linux) are available on our [website](https://stardustxr.org/docs/get-started/What-is-Stardust).
 The quickest way to use it is with [Telescope](https://github.com/StardustXR/telescope), a bundled installation that comes with the [Stardust XR server](https://github.com/StardustXR/server) and a selection of clients to run. Stardust XR has a flatscreen mode as well, so even if you don't have an XR headset setup on your Linux distribution, you can still
 try it out with desktop controls.  
 ```bash
