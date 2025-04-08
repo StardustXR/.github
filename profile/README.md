@@ -22,7 +22,7 @@ Follow us on [Twitter/X](https://twitter.com/ultramarineproj) & [Bluesky](https:
 
 ## 📚 Documentation  
 
-Documentation for Stardust XR can be found on our [website](https://wiki.ultramarine-linux.org/en/welcome/), and on the individual client repositories. 
+Documentation for Stardust XR can be found on our [website](https://stardustxr.org/), and on the individual client repositories. 
 
 ## ⚒️ Contributing  
 
